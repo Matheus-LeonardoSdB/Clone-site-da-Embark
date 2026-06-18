@@ -10,7 +10,3 @@ Projeto desenvolvido para praticar HTML5 e CSS3 através da recriação da inter
 ## Objetivo
 
 Reproduzir visualmente o layout do site original sem utilizar seu código-fonte.
-
-## Status
-
-Concluído
