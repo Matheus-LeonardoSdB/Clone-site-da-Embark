@@ -1,0 +1,201 @@
+*{
+    font-family: "Barlow";
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: black;
+    overflow-y: scroll; 
+    overflow-x: hidden;  
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    background-color: #ece2d0;
+    align-items: center;
+    height: 60px;
+}
+
+.left-side{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+.logo{
+    display: flex;
+    align-items: center;
+    margin-left: 32px;
+}
+
+.links{
+    display: flex;
+    gap: 55px;
+    align-items: center;
+}
+
+.links a{
+    display: flex;
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 20px;
+}
+
+.right-side {
+    margin-right: 35px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.icons{
+    display: flex;
+    gap: 6px;
+    align-items: center;
+    margin-right: 25px;
+}
+
+.buynow button{
+    display: flex;
+    align-items: center;
+    background-color: #f1aa1c;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 25px;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.backimg .background img{
+    position: relative;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    opacity: 0.5;
+}
+
+.overtext{
+    margin-left: 32px;
+    top: 50%;
+    position: absolute;
+    color: white;
+    font-size: 44px;
+}
+
+.overtext p{
+    font-size: 28px;
+}
+
+.botões{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.backimg{
+    border-bottom: 1px solid #ece2d0;
+}
+
+.buttonA button{
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+.buttonA button{
+    background-color: #f1aa1c;
+    font-weight: 500;
+}
+
+.buttonB button{
+    background-color: transparent;
+    color: white;
+    border: 1px solid white;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+.infos{
+    background-color: rgb(19, 9, 24, 0.9);
+    padding-left: 160px;
+    padding-bottom: 20px;
+}
+
+.infos h2{
+    color: #ece2d0;
+    font-size: 25px;
+    font-weight: 500;
+    margin-bottom: 20px;
+    padding-top: 70px;
+}
+
+.infos h1{
+    color: white;
+    font-size: 30px;
+    font-weight: 600;
+    margin-bottom: 100px;
+}
+
+.infos .maint h1{
+    margin-bottom: 10px;
+}
+
+.maint{
+    margin-bottom: 120px;
+}
+
+.maint h1{
+    color: #ece2d0;
+    font-size: 70px;
+    font-weight: 500;
+    border-left: 5px outset #ece2d0;
+    padding-left: 10px;
+    word-wrap: break-word;
+    width: 50%;
+}
+
+.maint p{
+    color: white;
+    font-size: 22px;
+    width: 50%;
+    margin-bottom: 30px;
+}
+
+.maint button{
+    background-color: #f1aa1c;
+    border: none;
+    color: black;
+    padding: 15px 30px;
+    font-weight: 600;
+    font-size: 18px;
+    border-radius: 5px;
+}
+
+.ending{
+    color: black;
+}
+.texts{
+    color: black;
+    text-align: center;
+}
+
+.ending{
+    background-color: #ece2d0;
+    padding: 50px 20px;
+}
+
+.texts p{
+    font-size: 25px;
+    padding-right: 200px;
+    padding-left: 200px;
+    padding-bottom: 10px;
+}
+/*
+#130918
+*/
