@@ -10,3 +10,7 @@ Projeto desenvolvido para praticar HTML e CSS na recriação da interface do sit
 ## Objetivo
 
 Fazer um clone do site da embark sem usar o código original. Tudo feito só copiando o Design no olho.
+
+## O que falta fazer
+
+Design responsivo que se adapte a todas as resoluções.
