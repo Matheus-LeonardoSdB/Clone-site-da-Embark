@@ -1,12 +1,12 @@
 # Clone do Site da Embark
 
-Projeto desenvolvido para praticar HTML5 e CSS3 através da recriação da interface do site da Embark.
+Projeto desenvolvido para praticar HTML e CSS na recriação da interface do site da Embark.
 
-## Tecnologias utilizadas
+## Tecnologias que utilizei
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 
 ## Objetivo
 
-Reproduzir visualmente o layout do site original sem utilizar seu código-fonte.
+Fazer um clone do site da embark sem usar o código original. Tudo feito só copiando o Design no olho.
