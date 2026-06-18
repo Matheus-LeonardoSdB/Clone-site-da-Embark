@@ -1,2 +1,16 @@
-# Clone-site-da-Embark
-Fiz um clone de um site da embark sem usar o código original, tentando replicar o Design visual.
+# Clone do Site da Embark
+
+Projeto desenvolvido para praticar HTML5 e CSS3 através da recriação da interface do site da Embark.
+
+## Tecnologias utilizadas
+
+- HTML5
+- CSS3
+
+## Objetivo
+
+Reproduzir visualmente o layout do site original sem utilizar seu código-fonte.
+
+## Status
+
+Concluído
